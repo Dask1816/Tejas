@@ -1,0 +1,7 @@
+{
+  "name": "Tejas AI Voice",
+  "description": "Real-time voice-to-voice AI assistant with multi-language conversation and native Android device actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
